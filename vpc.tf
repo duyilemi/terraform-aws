@@ -22,3 +22,7 @@ module "vpc" {
     Name = var.VPC_NAME
   }
 }
+
+output "vpc_public_subnets" {
+  value = module.vpc.public_subnets[0]
+}

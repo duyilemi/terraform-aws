@@ -1,1 +1,1 @@
-# terraform code for vprofile application
+# Configuration management of AWS web application infrastructure

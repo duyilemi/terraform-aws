@@ -1,1 +1,1 @@
-# Configuration management of AWS web application infrastructure
+# Configuration and state management of AWS web application infrastructure/stacks

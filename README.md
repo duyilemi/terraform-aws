@@ -69,12 +69,12 @@
 ## :star2: About the Project
 
 <!-- Screenshots -->
-<!--
+
 ### :camera: Screenshots
 
 <div align="center">
-  <img src="" alt="screenshot" />
-</div> -->
+  <img src="readme-assets/Screenshot (106).png" alt="screenshot" />
+</div>
 
 <!-- TechStack -->
 

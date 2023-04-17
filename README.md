@@ -124,7 +124,7 @@ This project uses Terraform as infrastructure as code tool, AWS account, AWS S3 
 ```
 
 ```bash
- choco install terraform
+ choco install awscli
 ```
 
 <!-- Run Locally -->
@@ -162,7 +162,7 @@ Format the code properly
 Validate
 
 ```bash
-  terraform fmt
+  terraform validate
 ```
 
 Plan Changes

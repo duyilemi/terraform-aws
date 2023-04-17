@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="https://th.bing.com/th/id/OIP.QbM4V96xdZOV88Hy2nSLlAHaHZ?pid=ImgDet&rs=1" alt="logo" width="200" height="auto" />
   <h1>Configuration Management With Terraform</h1>
   
   <p>

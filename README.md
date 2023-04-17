@@ -72,8 +72,16 @@
 
 ### :camera: Screenshots
 
+VPC Setup
+
 <div align="center">
   <img src="readme-assets/Screenshot (106).png" alt="screenshot" />
+</div>
+
+Application Stacks Setup in VPC
+
+<div align="center">
+  <img src="readme-assets/Screenshot (107).png" alt="screenshot" />
 </div>
 
 <!-- TechStack -->

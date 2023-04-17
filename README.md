@@ -48,7 +48,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  - [Screenshots](#camera-screenshots)
+  <!-- - [Screenshots](#camera-screenshots) -->
   - [Tech Stack](#space_invader-tech-stack)
   - [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
@@ -57,7 +57,6 @@
   - [Running Tests](#test_tube-running-tests)
   - [Run Locally](#running-run-locally)
 - [Usage](#eyes-usage)
-<!-- - [Roadmap](#compass-roadmap) -->
 - [Contributing](#wave-contributing)
   - [Code of Conduct](#scroll-code-of-conduct)
 - [FAQ](#grey_question-faq)
@@ -70,12 +69,12 @@
 ## :star2: About the Project
 
 <!-- Screenshots -->
-
+<!--
 ### :camera: Screenshots
 
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
+<div align="center">
+  <img src="" alt="screenshot" />
+</div> -->
 
 <!-- TechStack -->
 

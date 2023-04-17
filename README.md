@@ -118,7 +118,7 @@ Use AWS IAM user for better security
 
 ### :bangbang: Prerequisites
 
-This project uses Terraform as infrastructure as code tool, AWS account, AWS S3 for for code repository and AWS IAM user.
+This project uses Terraform as infrastructure as code tool, AWS account, AWS S3 bucket to maintain state of infrastructure and AWS IAM user.
 
 <!-- Installation -->
 

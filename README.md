@@ -78,7 +78,7 @@ VPC Setup
   <img src="readme-assets/Screenshot (106).png" alt="screenshot" />
 </div>
 
-Application Stacks Setup in VPC
+Application Stacks Setup VPC Private and Public Subnets
 
 <div align="center">
   <img src="readme-assets/Screenshot (107).png" alt="screenshot" />

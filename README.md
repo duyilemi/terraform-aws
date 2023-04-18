@@ -144,6 +144,12 @@ Clone the project
   git clone https://github.com/duyilemi/terraform-aws.git
 ```
 
+Get AWS Admin Access
+
+```bash
+  awscli configure
+```
+
 Go to the project directory
 
 ```bash
